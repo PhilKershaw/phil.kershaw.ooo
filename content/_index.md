@@ -37,7 +37,7 @@ Certification Details | Expires
   </header>
   <div class="card-content">
     <div class="inner">
-      I moved on within William Hill and joined the William Hill Cloud Team as a Ruby Developer tasked with reinvigorating a project to create a build/deployment pipeline. This involved exercising my previous experience with Ruby and Ruby on Rails in my role as Developer along with Scrum in my role as Project Lead. Following completion of this project I received numerous contract renewals and continued to contribute to platform architecture and development.
+      I moved on within William Hill and joined the William Hill Cloud Team as a Ruby Developer tasked with reinvigorating a project to create a build/deployment pipeline. This involved exercising my previous experience with Ruby and Ruby on Rails - in my role as Developer - along with Scrum - in my role as Project Lead. Following completion of this project I received numerous contract renewals and continued to contribute to platform architecture and development.
     </div>
   </div>
 </div>
@@ -47,7 +47,7 @@ Certification Details | Expires
   </header>
   <div class="card-content">
     <div class="inner">
-      I joined William Hill as part of the Information Security Analysts Team as an Integration Developer tasked with integrating a number of different services (<a href="https://www.darktrace.com/" title="DarkTrace website">DarkTrace</a>, <a href="https://www.splunk.com/" title="Splunk website">Splunk</a>, <a href="https://msdn.microsoft.com/en-gb/office/office365/howto/platform-development-overview" title="Office 365 API Reference">Office 365</a>, <a href="https://f5.com/" title="F5 Website">F5 Big-IP</a>)
+      I joined William Hill as part of the Information Security Analysts Team as an Integration Developer tasked with integrating a number of different services (<a href="https://www.darktrace.com/" title="DarkTrace website">DarkTrace</a>, <a href="https://www.splunk.com/" title="Splunk website">Splunk</a>, <a href="https://msdn.microsoft.com/en-gb/office/office365/howto/platform-development-overview" title="Office 365 API Reference">Office 365</a>, <a href="https://f5.com/" title="F5 Website">F5 Big-IP</a>) using Python to write Splunk plugins and GoLang to write a pre-compiled binary which queried the DarkTrace appliances status and output a CSV to be consumed by Nimsoft.
     </div>
   </div>
 </div>
@@ -57,7 +57,9 @@ Certification Details | Expires
   </header>
   <div class="card-content">
     <div class="inner">
-      I joined IntechnologyWIFI as an Integration Developer tasked with working with <a href="https://www.list.co.uk/" title="The List website">The List</a> to import their events data for exposure via a mobile app. The relationship with The List saw me performing more of a consultation role an advising on the expose of their data via an HTTP API. My role in the team involved working closely with Android and iOS developers to ensure imported data, in turn, presented to the mobile apps in the most efficient manner.
+      <p>I joined IntechnologyWIFI as an Integration Developer within an early Scrum team, tasked with working with  <a href="https://www.list.co.uk/" title="The List website">The List</a> to import their events data for exposure via a mobile app. The relationship with The List saw me performing more of a consultation role and advising on the exposure of their data via an HTTP API. My role in the team involved working closely with Android and iOS developers to ensure imported data, in turn, presented to the mobile apps in the most efficient manner.</p>
+ 
+      <p>The project called upon my previous experience of Python and saw me produce a CLI program which interfaced with the API, sanitised the data and finally stored the data and; a HTTP API using the Django framework for exposing said data to the mobile app.</p>
     </div>
   </div>
 </div>
@@ -67,7 +69,7 @@ Certification Details | Expires
   </header>
   <div class="card-content">
     <div class="inner">
-      I joined Vodefone UK as part of the Resource Forcasting team as a lone developer tasked with creating a tool that would simplify the capturing of relevant data, applying common and custom forcasting algorythums and outputting reports in various formats.
+      I joined Vodefone UK as part of the Resource Forecasting team as a lone developer tasked with creating a tool that would simplify the capturing of relevant data, applying common and custom forecasting algorithms and outputting reports in various formats. To manage this project I adopted 2 of the 3 Scrum Artefacts (Product Backlog, Sprint Backlog) which enabled me to focus on the highest value features and produce a Python application - using the Django framework.
     </div>
   </div>
 </div>
