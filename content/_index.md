@@ -8,19 +8,39 @@ draft: false
  | Experience (Years)
 --- | ---
 Commercial Software Development | 12
-Ruby | 5
-Python | 4 
-Solution Architecture | 2
-Leadership | 1
-Scrum Master | 1
+PHP (+Zend Framework, +Laravel) | 10
+Ruby (+Ruby on Rails) | 5
+Python (+Django) | 4 
+GoLang | 1
+AWS / Terraform / Scrum Master / Leadership | 1
 
 # Certifications
 Certification Details | Expires
 --- | ---
 [Certified ScrumMaster (CSM)](https://scrumalliance.org/community/profile/pkershaw2 "Certification Profile") | Feb 2018 - Feb 2020
-[Zend Certified Engineer](http://www.zend.com/en/yellow-pages/ZEND025311) | Never
+[Zend Certified Engineer](http://www.zend.com/en/yellow-pages/ZEND025311) | Nov 2014 - Never
 
 # Recent Experience
+<div class="card">
+  <header class="card-header">
+    <strong>KER-POW Tech(nology) Ltd – Proprietor (February 2018 – Present)</strong>
+  </header>
+  <div class="card-content">
+    <div class="inner">
+      I’m currently investing sweat equity on a project which is being developed using Python/Django and MongoDB. Said project integrates with various Google Maps APIs and is being developed within the AWS ecosystem. Meaning, the Git and Docker Repositories reside on AWS CodeCommit and ECR respectively. This is with a view to launching the project on AWS using EC2, ECS, ELB, Route53, IAM amongst various other services.
+    </div>
+  </div>
+</div>
+<div class="card">
+  <header class="card-header">
+    <strong>The Dining Club Group – Contract (May 2018 – August 2018)</strong>
+  </header>
+  <div class="card-content">
+    <div class="inner">
+      Joining their Technology Lead along-side a team assembled by Infinity Works, I assisted with the design, development and coaching of new recruits in the use of Terraform and AWS Services – specifically Lambda, IAM, API Gateway, S3, RDS and Route 53.
+    </div>
+  </div>
+</div>
 <div class="card">
   <header class="card-header">
     <strong>William Hill Plc - Contract (September 2017 - February 2018)</strong>
@@ -58,8 +78,8 @@ Certification Details | Expires
   <div class="card-content">
     <div class="inner">
       <p>I joined IntechnologyWIFI as an Integration Developer within an early Scrum team, tasked with working with  <a href="https://www.list.co.uk/" title="The List website">The List</a> to import their events data for exposure via a mobile app. The relationship with The List saw me performing more of a consultation role and advising on the exposure of their data via an HTTP API. My role in the team involved working closely with Android and iOS developers to ensure imported data, in turn, presented to the mobile apps in the most efficient manner.</p>
- 
       <p>The project called upon my previous experience of Python and saw me produce a CLI program which interfaced with the API, sanitised the data and finally stored the data and; a HTTP API using the Django framework for exposing said data to the mobile app.</p>
+      <p>In addition to the primary responsibilities of this contract I also assisted with a Laravel project which called upon my previous PHP experience. I assisted with the development of a dashboard to gather and display WIFI statistics such as client connections, signal strength, Wifi AP load etc...</p>
     </div>
   </div>
 </div>
@@ -76,12 +96,12 @@ Certification Details | Expires
 
 Previous Relevant Employment |
 --- |
-LED Hut Ltd (June 2014 - November 2014) |
-Wilson and Cooke (November 2013 - June 2014) |
-Docnet Ltd (January 2013 - November 2013) |
-Begbies Traynor Group Plc (February 2012 - January 2013) |
-Zimo Communications Ltd (June 2011 - February 2012) |
-Manchester Metropolitan University (April 2007 - June 2011) |
+LED Hut Ltd (June 2014 - November 2014) Skills: PHP, Magento, Laravel, SysAdmin, MySQL |
+Wilson and Cooke (November 2013 - June 2014) Skills: PHP, WordPress, SysAdmin, MySQL |
+Docnet Ltd (January 2013 - November 2013) Skills: PHP, Zend Framework, SysAdmin, MySQL |
+Begbies Traynor Group Plc (February 2012 - January 2013) Skills: PHP, Python, Django, Symphony, Doctrine, MySQL |
+Zimo Communications Ltd (June 2011 - February 2012) Skills: PHP, Zend Framework, MySQL |
+Manchester Metropolitan University (April 2007 - June 2011) Skills: PHP, CakePHP, MySQL, SysAdmin |
 
 # Contact and Social Links
 [Company Website](http://blueberry.click) |
