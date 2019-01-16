@@ -17,8 +17,8 @@ AWS / Terraform / Scrum Master / Leadership | 1
 # Certifications
 Certification Details | Expires
 --- | ---
+[AWS Certified Solutions Architect - Associate](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2018-10-29&ci=AWS00452248) | Oct 2018 - Oct 2020
 [Certified ScrumMaster (CSM)](https://scrumalliance.org/community/profile/pkershaw2 "Certification Profile") | Feb 2018 - Feb 2020
-[Zend Certified Engineer](http://www.zend.com/en/yellow-pages/ZEND025311) | Nov 2014 - Never
 
 # Recent Experience
 <div class="card">
