@@ -2,5 +2,7 @@ baseURL = "http://phil.kershaw.ooo/"
 languageCode = "en-gb"
 title = "Curriculum Vitae for Phil Kershaw"
 theme = "after-dark"
-[params]
-  theme_variant = "hack solarized-dark"
+[params.hackcss]
+  palette = "dark-grey"
+[markup.goldmark.renderer]
+  unsafe= true
