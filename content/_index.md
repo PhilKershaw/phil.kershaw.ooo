@@ -1,133 +1,99 @@
----
-title: "Phil Kershaw - Tech Lead, Solution Architect and Certified ScrumMaster™"
-date: 2018-02-20T17:49:27Z
-draft: false
----
++++
+title = "Phil Kershaw - AWS Solutions Architect and Certified ScrumMaster™"
++++
 
-# Key Skills
+## Personal Profile
 
-| Area                   | Skills/Knowledge                               |
-| ---------------------- | ---------------------------------------------- |
-| Languages              | Ruby, Python, TypeScript, Java                 |
-| Cloud                  | AWS, AWS CDK                                   |
-| Big Data and Analytics | AWS S3, Glue, Athena, RedShift, Kinesis        |
-| Serverless             | AWS Lambda, Fargate, SAM, Serverless Framework |
-| Infrastructure         | AWS CDK, CloudFormation                        |
+{{< figure class="avatar" src="https://s.gravatar.com/avatar/7bf13c9d27600b733cec879994746108?s=157" >}}
 
-I am also experienced with a vast array of other COTS and OpenSource tools, including but not limited to: Elastic Search (and supporting tools), Docker, Vaadin, Dgraph, Camunda Zeebe, Tyk... the list goes on!
+Hi, I am Phil Kershaw, an accomplished Lead Engineer with a background in software engineering and SecDevOps across a range of business sectors - including but not limited to Telecomms and Big Pharma – as well as extensive experience in the design and delivery of large-scale projects on AWS.
 
-# Certifications
+I have a particular interest in Architecting Solutions for AWS (including COTS or OpenSource components when necessary), Big Data and ML/AI.
 
-| Certification Details                                                                                                                     | Expires             |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
-| [AWS Certified Solutions Architect - Associate](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2018-10-29&ci=AWS00452248) | Oct 2018 - Oct 2020 |
-| [Certified ScrumMaster (CSM)](https://scrumalliance.org/community/profile/pkershaw2 "Certification Profile")                              | Feb 2018 - Feb 2020 |
+## Certifications
 
-# Recent Experience
+|                                               | Expiry              |
+| --------------------------------------------- | --------------------|
+| AWS Certified Solutions Architect - Associate | Oct 2018 – Oct 2021 |
+| Certified ScrumMaster (CSM)                   | Feb 2018 – Feb 2022 |
 
-<div class="card">
-  <header class="card-header">
-    <strong>AstraZeneca Ltd – Contract (Oct 2019 – Present)</strong>
-  </header>
-  <div class="card-content">
-    <div class="inner">
-      I'm currently engaged across multiple project that command my attention across Solution Architecture, DevOps and Cloud Engineering.
-    </div>
-  </div>
-</div>
-<div class="card">
-  <header class="card-header">
-    <strong>KER-POW Tech(nology) Ltd – Proprietor (February 2018 – Present)</strong>
-  </header>
-  <div class="card-content">
-    <div class="inner">
-      I’m currently investing sweat equity on a project which is being developed using Python/Django and MongoDB. Said project integrates with various Google Maps APIs and is being developed within the AWS ecosystem. Meaning, the Git and Docker Repositories reside on AWS CodeCommit and ECR respectively. This is with a view to launching the project on AWS using EC2, ECS, ELB, Route53, IAM amongst various other services.
-    </div>
-  </div>
-</div>
-<div class="card">
-  <header class="card-header">
-    <strong>yboo Ltd – Contract (Oct 2018 – August 2019)</strong>
-  </header>
-  <div class="card-content">
-    <div class="inner">
-      Joined initially to to head up developments and introduce Good Practice measures to the development process (i.e. CI/CD, TDD, Peer Reviews etc..) along-side mentoring a Junior Developer. Upon sucessful implimentation of said Good Practices my attention switched to Solution Architecture. As a result of the hard work of all involved this company was later acquired by DixonsCarphone.
-    </div>
-  </div>
-</div>
-<div class="card">
-  <header class="card-header">
-    <strong>The Dining Club Group – Contract (May 2018 – August 2018)</strong>
-  </header>
-  <div class="card-content">
-    <div class="inner">
-      Joining their Technology Lead along-side a team assembled by Infinity Works, I assisted with the design, development and coaching of new recruits in the use of Terraform and AWS Services – specifically Lambda, IAM, API Gateway, S3, RDS and Route 53.
-    </div>
-  </div>
-</div>
-<div class="card">
-  <header class="card-header">
-    <strong>William Hill Plc - Contract (September 2017 - February 2018)</strong>
-  </header>
-  <div class="card-content">
-    <div class="inner">
-      Following a reorganisation of the William Hill Cloud Team my contract with them was renewed but in a new capacity of Development Lead. This is where I further utilised my previous experience with Scrum to coach all members of the team in order to improve our performance.
-    </div>
-  </div>
-</div>
-<div class="card">
-  <header class="card-header">
-    <strong>William Hill Plc - Contract (June 2016 - September 2017)</strong>
-  </header>
-  <div class="card-content">
-    <div class="inner">
-      I moved on within William Hill and joined the William Hill Cloud Team as a Ruby Developer tasked with reinvigorating a project to create a build/deployment pipeline. This involved exercising my previous experience with Ruby and Ruby on Rails in my role as Developer along with Scrum in my role as Project Lead. Following completion of this project I received numerous contract renewals and continued to contribute to platform architecture and development.
-    </div>
-  </div>
-</div>
-<div class="card">
-  <header class="card-header">
-    <strong>William Hill Plc - Contract (March 2016 - June 2016)</strong>
-  </header>
-  <div class="card-content">
-    <div class="inner">
-      I joined William Hill as part of the Information Security Analysts Team as an Integration Developer tasked with integrating a number of different services (<a href="https://www.darktrace.com/" title="DarkTrace website">DarkTrace</a>, <a href="https://www.splunk.com/" title="Splunk website">Splunk</a>, <a href="https://msdn.microsoft.com/en-gb/office/office365/howto/platform-development-overview" title="Office 365 API Reference">Office 365</a>, <a href="https://f5.com/" title="F5 Website">F5 Big-IP</a>)
-    </div>
-  </div>
-</div>
-<div class="card">
-  <header class="card-header">
-    <strong>IntechnologyWIFI - Contract (October 2015 - January 2016)</strong>
-  </header>
-  <div class="card-content">
-    <div class="inner">
-      I joined IntechnologyWIFI as an Integration Developer tasked with working with <a href="https://www.list.co.uk/" title="The List website">The List</a> to import their events data for exposure via a mobile app. The relationship with The List saw me performing more of a consultation role an advising on the expose of their data via an HTTP API. My role in the team involved working closely with Android and iOS developers to ensure imported data, in turn, presented to the mobile apps in the most efficient manner.
-    </div>
-  </div>
-</div>
-<div class="card">
-  <header class="card-header">
-    <strong>Vodafone UK - Contract (May 2015 - August 2015)</strong>
-  </header>
-  <div class="card-content">
-    <div class="inner">
-      I joined Vodefone UK as part of the Resource Forcasting team as a lone developer tasked with creating a tool that would simplify the capturing of relevant data, applying common and custom forcasting algorythums and outputting reports in various formats.
-    </div>
-  </div>
-</div>
+## Recent Experience 
+### AstraZeneca UK Ltd – Contract (October 2019 – Present) 
+Joining the Imaging Platform team at grass roots I quickly established myself as the Tech Lead across 2 projects and AWS SME on a 3rd: 
+###### Key Responsibilities Across all Projects: 
+- Ensured testability of all infrastructure as code using AWS CDK TypeScript 
+- Established a CI/CD pipeline to manage multiple environments using BitBucket Server, Jenkins Pipeline, Serverless Framework and AWS CDK 
+- Provided guidance, advice on AWS and its services and liaise with AWS Concierge Service where necessary 
+- Liaised with CSIS (Cloud Management) to procure AWS accounts dedicated to the Imaging Platform 
+- Liaised with Networking to set up VPN connectivity from On-Prem network to two Imaging Platform AWS Accounts 
+- Served as Scrum Master and advised imaging projects as a Scrum coach 
+##### SCIENCE DATA FOUNDATION IMAGING PLATFORM 
+The SDF Imaging Platform serves as the "one stop shop" data lake for biomedical images and related metadata at AstraZeneca. It provides the ability to discover and access images relevant to a particular avenue of research. 
+###### Key Achievements: 
+- Lead on design and delivery of the SDF Imaging Platform release 1 using AWS cloud services. Taking an existing PoC and producing a cloud native solution. 
+- Created Ansible Playbooks to provision EC2 instances across all environments (dev, test, staging, production) 
+- Develop nano-services to perform extraction of medical images in DICOM format and Whole Slide Images in a range of formats including SVS and NDPI 
+- Designed Step Function state machine to orchestrate activities on images and their metadata based on source and format and eventual destination  
+- Designed an API for providing access to the complex and diverse imaging metadata using AppSync (GraphQL) and DynamoDB in addition to supplying pub/sub capabilities using SNS 
+- Implemented dashboard in CloudWatch to monitor image processing activity and throughput 
+- Implemented custom alerting based on application log output using custom metrics, CloudWatch Alarms and SNS 
+- Advised on Agile practices and; recommend iterative changes to the way the team worked and organised based on the Scrum Framework 
 
-| Previous Relevant Employment                                                                                    |
-| --------------------------------------------------------------------------------------------------------------- |
-| LED Hut Ltd (June 2014 - November 2014) Skills: PHP, Magento, Laravel, SysAdmin, MySQL                          |
-| Wilson and Cooke (November 2013 - June 2014) Skills: PHP, WordPress, SysAdmin, MySQL                            |
-| Docnet Ltd (January 2013 - November 2013) Skills: PHP, Zend Framework, SysAdmin, MySQL                          |
+*More recently in this role:*
+- Created a cross-platform CLI utility written in Python 3 for obtaining AWS STS keys when authenticated via Ping Federate SAML - AWS integration and assuming a Federated Role to replace the distribution of IAM Keys 
+- Instrumental in the Solution Architecture of an API that enables:  
+  - Multiple imaging workstreams to contribute to a universal database of imaging metadata 
+  - Free text searching of image metadata 
+  - More complex querying of metadata using GraphQL 
+- Lead on the design and delivery of a solution for an internal HTTP API to enable Validation, Transformation and Governance of imaging metadata using API Gateway (Private), VPC Interface Endpoint 
+- Liaised with MuleSoft architecture and development to establish integration with the internal API 
+- Lead on the design and delivery of a solution for deploying distributed graph database, Dgraph using AWS Fargate 
+##### HALO UPLIFT PROJECT 
+The Halo Uplift Project was a Proof of Concept to answer the questions of “Can we migrate on-prem Halo to the Cloud?” and “How much will it cost to deploy and run?” 
+###### Key Achievements: 
+- Lead on the design and delivery of configurable and reusable (dev, test etc..) infrastructure using AWS CDK to deploy scalable clustered EC2 instances of varying size and a MySQL Database cluster using AWS RDS 
+- Created Ansible playbooks to provision the EC2 instances and install: Halo Clients; Halo AI; Halo Link; Halo API; Halo Analysis 
+- Lead a Proof of Concept to assess the possibility of using AWS AppStream for end-user access management and governance 
+- Liaised with Data Scientists on system testing 
+- Liaised with Product Owner and Business Analyst on solution costing and viability 
+- Liaised with Indica Labs on the installation process for each of the Halo products 
+
+##### CPSS IMAGING DATABASE 
+The CPSS Imaging Database is an image data and metadata management system for digital pathology, in-vivo, and mass spectrometry imaging designed around a BPMN engine (Camunda Zeebe). Its purpose is to gather metadata from services internally – such as eSlide Manager, bioELN – and externally, such as BSI – before combining these data with metadata extracted from image files (in various formats: SVS, NDPI, bif, DICOM), transforming it using JSONata, and storing in Dgraph. 
+
+###### Key Achievements: 
+- Lead on the design and building of infrastructure in AWS CDK for deploying more than 15 services to AWS Fargate. Services included: Camunda Zeebe; Camunda Operate; Elastic Search & Kibana; Dgraph 
+- Implemented persistent storage for containers running in AWS Fargate using AWS EFS 
+- Designed and implemented inter-service connectivity by applying Service Discovery using Cloud Map and on-prem connectivity using a combination of internal Application and Network Load balancers 
+- Designed and implemented hub-and-spoke CI/CD pipeline using Jenkins Pipeline, samver 
+- Assumed Scrum Master role. Facilitated daily Stand-up events and regular Backlog Refinement events. 
+
+My time served across these projects has resulted in my becoming very confident around Medical and Whole Slide Imaging. Particularly DICOM and WSI formats supported by BioFormats. However, most instrumental in my achievements here have been the relationships I’ve built across many departments including CSIS, TTA, Precision Medicine, Networks, Architecture, Cyber Security, DevOps not to mention the dedicated AWS Concierge Team. 
+###### Key Skills: 
+Team Leadership, Mentoring, AWS Solution Architecture, AWS CDK, CI/CD, Jenkins, TypeScript, Python 
+
+### yboo Ltd – Contract (October 2018 – August 2019) 
+yboo was a platform designed to provide mobile users with accurate mobile provider recommendations based on usage (voice, sms, mms and data) and frequented locations. The technology stack consisted of Ruby on Rails, nodejs, MongoDB Atlas running on Heroku. 
+###### Key Achievements: 
+- Lead the migration from Ruby/Heroku to NodeJS/AWS Cloud native for real-time data ingress and processing 
+- Managed scaling and sharing of the MongoDB Atlas cluster to improve throughput of realtime data 
+- Reconfigured MongoDB to provide dedicated analytics node 
+- Implemented event stream processing using API Gateway, Kinesis, lambda 
+- Lead on implementing best practice and CI/CD process to enable faster delivery to market 
+- Managed 3rd party mobile app development and established new working agreement to improve quality
+
+
+
+| Previous Relevant Employment |
+| ---------------------------- |
+| The Dining Club Group – Contract (May 2018 – August 2018) Skills: AWS Services and Tools, in particular: Terraform, API | Gateway, IAM, Lambda, S3, DynamoDB, DeepLens, Amplify, PHP, Go, TDD (PHPUnit, testing.T), MySQL, Docker, Jenkins, DevOps |
+| William Hill Plc - Contract (March 2016 - February 2018) Skills: Team Leadership, Mentoring, Python, Go, TDD (unittest.py,testing.T), Splunk, Docker, API Integration, Ruby, JavaScript, TDD (RSpec, Jest), Ruby On Rails, Postgresql, Docker, Marathon/Mesos, Jenkins, DevOps, Scrum |
+| IntechnologyWIFI - Contract (October 2015 - January 2016) Skills: Python, PHP, MySQL, API integration |
+| Vodafone UK – Contract (May 2015 – August 2015) Skills: Python, Django, Scrum |
+| LED Hut Ltd (June 2014 - November 2014) Skills: PHP, Magento, Laravel, SysAdmin, MySQL |
+| Wilson and Cooke (November 2013 - June 2014) Skills: PHP, WordPress, SysAdmin, MySQL |
+| Docnet Ltd (January 2013 - November 2013) Skills: PHP, Zend Framework, SysAdmin, MySQL |
 | Begbies Traynor Group Plc (February 2012 - January 2013) Skills: PHP, Python, Django, Symphony, Doctrine, MySQL |
-| Zimo Communications Ltd (June 2011 - February 2012) Skills: PHP, Zend Framework, MySQL                          |
-| Manchester Metropolitan University (April 2007 - June 2011) Skills: PHP, CakePHP, MySQL, SysAdmin               |
-
-# Contact and Social Links
-
-[Company Website](http://blueberry.click) |
-[Email Me](mailto:phil@blueberry.click?subject=Seen%20your%20profile!) |
-[LinkedIn](https://www.linkedin.com/in/philkershaw/) |
-[Twitter](http://twitter.com/PhilKershaw)
+| Zimo Communications Ltd (June 2011 - February 2012) Skills: PHP, Zend Framework, MySQL |
+| Manchester Metropolitan University (April 2007 - June 2011) Skills: PHP, CakePHP, MySQL, SysAdmin |
+ 

@@ -1,8 +1,16 @@
-baseURL = "http://phil.kershaw.ooo/"
-languageCode = "en-gb"
-title = "Curriculum Vitae for Phil Kershaw"
-theme = "after-dark"
-[params.hackcss]
-  palette = "dark-grey"
+title = "Phil Kershaw - AWS Solutions Architect and Certified ScrumMaster™"
+baseURL = "https://phil.kershaw.ooo"
+theme = "researcher"
+disableKinds = ["taxonomy", "term"]
+enableEmoji = true
+math = false          # enable KaTeX (https://katex.org/) globally
+googleAnalytics = ""  # add your tracking id
+
+[params]
+  css = ["css/custom.css"]
+
+[permalinks]
+  "/" = "/:filename"
+
 [markup.goldmark.renderer]
-  unsafe= true
+  unsafe = true  # allow raw HTML in markdown files
